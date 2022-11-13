@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668329646 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q3b_heap_level\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+
+1637328225 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q3b_heap_level\priority_queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1668330294 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q3b_heap_level\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+

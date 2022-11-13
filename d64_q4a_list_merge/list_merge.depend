@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637203314 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q4a_list_merge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1637238663 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q4a_list_merge\list.h
+	<stdexcept>
+	<iostream>
+
+1667358426 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q4a_list_merge\student.h
+	<algorithm>
+

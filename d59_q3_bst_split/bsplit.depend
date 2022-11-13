@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1668163171 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q3_bst_split\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"map_bst.h"
+	"student.h"
+	<algorithm>
+
+1493743036 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q3_bst_split\map_bst.h
+	<iostream>
+
+1668163693 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q3_bst_split\student.h
+

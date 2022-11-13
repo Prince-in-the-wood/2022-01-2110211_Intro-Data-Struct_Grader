@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606104525 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_list_reverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1635788313 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_list_reverse\list.h
+	<stdexcept>
+	<iostream>
+
+1667532892 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_list_reverse\student.h
+	<algorithm>
+

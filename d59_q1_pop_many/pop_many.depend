@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1488942504 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q1_pop_many\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1488852696 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q1_pop_many\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+
+1664002580 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d59_q1_pop_many\student.h
+

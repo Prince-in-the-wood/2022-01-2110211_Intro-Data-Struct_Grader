@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661408224 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q1a_hiatus\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

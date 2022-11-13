@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601388869 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2b_stack_reserve\main.cpp
+	<iostream>
+	"stack.h"
+	"student.h"
+
+1601388882 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2b_stack_reserve\stack.h
+	<stdexcept>
+	<iostream>
+
+1663731502 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2b_stack_reserve\student.h
+

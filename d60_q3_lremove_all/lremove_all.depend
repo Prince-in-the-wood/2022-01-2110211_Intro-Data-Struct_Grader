@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562079294 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d60_q3_lremove_all\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1635787583 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d60_q3_lremove_all\list.h
+	<stdexcept>
+	<iostream>
+
+1667537078 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d60_q3_lremove_all\student.h
+

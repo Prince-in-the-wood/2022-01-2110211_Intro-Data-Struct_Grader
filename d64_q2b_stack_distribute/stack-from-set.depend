@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635178817 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_stack_distribute\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1635174753 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_stack_distribute\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664009804 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_stack_distribute\student.h
+

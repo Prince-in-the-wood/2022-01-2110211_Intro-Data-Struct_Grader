@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667542182 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q3_list_replace\main.cpp
+	<stdexcept>
+	<iostream>
+	"replace.h"
+
+1667542111 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q3_list_replace\replace.h
+

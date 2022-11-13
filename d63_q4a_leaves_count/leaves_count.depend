@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574570643 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_leaves_count\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1574570253 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_leaves_count\map_bst.h
+	<iostream>
+
+1668070789 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4a_leaves_count\student.h
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1574567664 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q4a_list_shift\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"list.h"
+	"student.h"
+	<vector>
+
+1574567549 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q4a_list_shift\package\list.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<set>
+
+1667535195 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q4a_list_shift\package\student.h
+	<algorithm>
+

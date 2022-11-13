@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574779318 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q3b_queue_m2f\package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1575433955 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q3b_queue_m2f\package\queue.h
+	<stdexcept>
+	<iostream>
+
+1664018200 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d62_q3b_queue_m2f\package\student.h
+	<algorithm>
+	<iostream>
+

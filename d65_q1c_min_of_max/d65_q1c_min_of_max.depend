@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667891232 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d65_q1c_min_of_max\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

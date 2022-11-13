@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635223343 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_vector_rotate\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	"vector.h"
+	"student.h"
+
+1635219167 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_vector_rotate\vector.h
+	<stdexcept>
+	<iostream>
+
+1663601495 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2b_vector_rotate\student.h
+

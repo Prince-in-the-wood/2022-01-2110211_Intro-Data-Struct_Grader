@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665975387 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\ds03_heap_erase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

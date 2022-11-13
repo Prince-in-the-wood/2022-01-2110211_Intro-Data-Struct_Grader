@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633885731 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_vector_block_swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1633880727 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_vector_block_swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1663730820 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_vector_block_swap\student.h
+

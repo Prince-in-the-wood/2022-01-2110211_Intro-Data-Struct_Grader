@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601261463 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2a_pair_gte\main.cpp
+	<stdexcept>
+	<iostream>
+	"pair.h"
+	"student.h"
+	<string>
+
+1601212519 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2a_pair_gte\pair.h
+	<iostream>
+	<assert.h>
+
+1662950805 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q2a_pair_gte\student.h
+

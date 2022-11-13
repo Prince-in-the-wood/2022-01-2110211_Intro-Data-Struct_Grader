@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606127208 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4b_shallowest\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1606127190 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4b_shallowest\map_bst.h
+	<iostream>
+
+1668070405 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d63_q4b_shallowest\student.h
+	<algorithm>
+	<iostream>
+

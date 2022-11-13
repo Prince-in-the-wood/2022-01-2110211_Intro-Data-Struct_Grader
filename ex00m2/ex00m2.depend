@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662733885 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\ex00m2\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<map>
+

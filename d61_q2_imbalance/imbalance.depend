@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668153741 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d61_q2_imbalance\main.cpp
+	<iostream>
+	"map_bst.h"
+
+1542725522 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d61_q2_imbalance\map_bst.h
+	<iostream>
+	"student.h"
+
+1668154112 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d61_q2_imbalance\student.h
+

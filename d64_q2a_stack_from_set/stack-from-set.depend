@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1664011256 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_stack_from_set\main.cpp
+	<iostream>
+	<stack>
+	"student.h"
+	<assert.h>
+	<exception>
+	<set>
+	<string>
+	<sstream>
+
+1664622467 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_stack_from_set\student.h
+	"stack.h"
+
+1664622350 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d64_q2a_stack_from_set\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1461682910 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q3_unary\main.cpp
+	<vector>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+
+1461682616 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q3_unary\map_bst.h
+	<iostream>
+
+1668242778 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q3_unary\student.h
+

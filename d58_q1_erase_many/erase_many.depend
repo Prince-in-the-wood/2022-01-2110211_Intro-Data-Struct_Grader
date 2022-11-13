@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1456245226 source:d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q1_erase_many\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1456244981 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q1_erase_many\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1663159081 d:\punpun\work_cu\subject_work\year02_s-1\2110211_intro-data-struct\grader\d58_q1_erase_many\student.h
+

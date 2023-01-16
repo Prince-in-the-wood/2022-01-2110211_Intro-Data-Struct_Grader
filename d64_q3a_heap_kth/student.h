@@ -18,6 +18,16 @@ T CP::priority_queue<T,Comp>::get_kth(size_t k) const {
 
   sort( v.begin(), v.end(), mLess );
 
+  for( int i = k ; i < std::min( (int)mSize, 7) ; i++ ){
+      T tmp = mData[i];
+
+      for( int j = k - 1 ; j >= 0 ; j-- ){
+        if( mLess( v[j], tmp ) ){
+            std::swap( tmp, v[j] );
+        }
+      }
+  }
+
   return v[0];
 }
 
